@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phonebook
 The personalize phone directory to help person maintain contacts info.
 The contacts are arranged in ALPHABETIC order
@@ -33,3 +34,6 @@ The main advantage of using MVVM, there is no two way dependency between ViewMod
 <img src="images/signin.png" width="300" height="500"/> <img src="images/main.jpg" width="300" height="500"/>
 <img src="images/create.jpg" width="300" height="500"/> <img src="images/menu.jpg" width="300" height="500"/>
 <img src="images/edit.jpg" width="300" height="500"/>
+=======
+# TestProjek
+>>>>>>> fe6d9b53cfbd98ac1f7c51823d496321f6be5c80
